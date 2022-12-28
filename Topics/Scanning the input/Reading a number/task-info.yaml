@@ -2,8 +2,8 @@ type: choice
 is_multiple_choice: false
 options:
 - text: char
-- text: double
 - text: int
+- text: double
 - text: String
 files:
 - name: src/Task.java
